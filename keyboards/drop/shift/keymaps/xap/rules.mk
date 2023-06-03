@@ -1,1 +1,0 @@
-XAP_ENABLE = yes
